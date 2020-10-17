@@ -1,0 +1,239 @@
+.abc{
+    text-align: center;
+    font-family:futura-pt;
+    font-weight:500;
+    font-style:normal;
+    font-display:auto;
+   color: #ba812e;
+   background-color:rgba(255, 160, 122, 0.144);
+}
+body{
+   background-color: #efeeed;
+}
+#cc{
+ background-color: #ba812e;
+ color: #fff;
+ border:#ba812e ;
+}
+.def{
+   font-family: psfournier-std-grand;
+font-weight: 400;
+font-style: normal;
+font-size: 100px;
+color:#1f1f1f;
+
+
+}
+#bb{
+   font-family: proxima-nova;
+font-weight: 300;
+font-style: normal;
+font-size: 15px;
+padding-bottom: 6px;
+
+}
+#rr{
+   padding-left: 20px;
+}
+.db{
+   text-align: center;
+   font-family: psfournier-std-grand;
+font-weight: 300;
+font-style: normal;
+font-size: 30px;
+color: #1f1f1f;
+}
+#vv{
+   background-color: #ba812e;
+text-align: center;
+font-family: futura-pt;
+font-size: 15px;
+font-weight: 800;
+font-style: normal;
+margin-left: 300px;
+border: 2px solid rgba(0,0,0,0);
+color: #fff;
+border:#ba812e ;
+}
+#one{
+   margin-left: 890px;
+}
+#pp{
+   color: #fff;
+   background-color:  #eaf0f0; 
+}
+.two{
+   
+font-family: psfournier-std-grand;
+font-weight: 900;
+font-style: normal;
+font-size: 20px;
+margin-left: 600px;
+font-weight: bold;
+}
+#three{
+   color: #ba812e;  
+}
+.hig{
+   text-align: right;
+}
+#six{
+   margin-left: 190px;
+}
+#rrr{
+   font-family: futura-pt;
+font-size: 18px;
+font-weight: 800;
+font-style: normal;
+color: #fff;
+background-color: #ba812e;
+border-color: #ba812e;
+}
+#ppp{
+   font-family: proxima-nova;
+font-weight: 300;
+font-style: normal;
+font-size: 15px;
+}
+.ddd{
+
+font-family: proxima-nova;
+font-weight: 300;
+font-style: normal;
+font-size: 15px;
+}
+#obc{
+   font-family: psfournier-std-grand;
+font-weight: 300;
+font-style: normal;
+font-size: 60px;
+}
+#uvy{
+   color: #ba812e; 
+}
+#xyz{
+   font-family: psfournier-std-grand;
+font-weight: 300;
+font-style: normal;
+font-size: 30px;
+}
+.vvv{
+   text-align: center;
+   /* padding-left: 15px;
+   padding-top: 20px;
+   font-size: 30px; */
+   font-family: proxima-nova;
+font-weight: 300;
+font-style: normal;
+font-size: 25px;
+   /* font-size: 62%; */
+}
+.mmm{
+   text-align: center;
+   /* font-size: 62%; */
+   /* font-family: proxima-nova;
+font-weight: 300;
+font-style: normal;
+font-size: 25px; */
+font-family: futura-pt;
+font-weight: 600;
+font-style: normal;
+font-size: 16px;
+color: #ba812e;
+}
+.mmn{
+   text-align: initial;
+   font-family: proxima-nova;
+   font-weight: 300;
+   font-style: normal;
+   font-size: 25px; 
+   margin-left: 350px;
+}
+.kkk{
+   
+   background-color: #eaf0f0;
+}
+#fff{
+   font-family: psfournier-std-grand;
+font-weight: 300;
+font-style: normal;
+font-size: 30px;
+
+margin-left: 230px;
+
+}
+#lll{
+  background-color:  #ba812e; 
+  border:#ba812e ;
+  color: #fff;
+  font-family: futura-pt;
+font-size: 15px;
+font-weight: 800;
+font-style: normal;
+text-transform: uppercase;
+padding: center;
+margin-left: 600px;
+}
+#ten{
+   background-color:  #ba812e; 
+  color: #fff;
+  border:#ba812e ; 
+}
+.yuv{
+   background-color:  #eaf0f0;
+
+}
+#tt{
+   font-family:  futura-pt;
+font-weight: 300;
+font-style: normal;
+background-color:  #eaf0f0;
+}
+#tv{
+   font-family:  futura-pt;
+   font-weight: 300;
+   font-style: normal;
+   background-color:  #eaf0f0;
+   text-align: left,3px; 
+   padding-right: 9%;
+   
+}
+#ss{
+   background-color:  #eaf0f0;  
+}
+.xx{
+   background-color:  #eaf0f0;   
+}
+#nn{
+   width: 150;
+}
+.oo{
+   background-color:  #eaf0f0; 
+}
+#uuu{
+   text-align: center;
+   font-family: psfournier-std-grand;
+font-weight: 300;
+font-style: normal;
+font-size: 30px;
+margin-left: 9;
+}
+#www{
+   font-family: futura-pt;
+font-weight: 500;
+font-style: normal;
+font-size: 15px;
+}
+/* #ee{
+   background-color:#eaf0f0 ;
+} */
+#zzz{
+   text-align: center;
+   margin-top: 0;
+}
+#iii{
+   font-family: 'PSFournier Std Grand';
+font-size: 30px;
+font-weight: 300;
+text-align: right,35%;
+}
